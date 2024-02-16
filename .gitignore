@@ -1,0 +1,11 @@
+*.obj
+*.d
+*makefile
+*.mk
+*.prefs
+*.launch
+*.map
+*.out
+*.xml
+*.opt
+*.txt
